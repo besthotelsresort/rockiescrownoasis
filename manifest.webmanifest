@@ -1,0 +1,26 @@
+{
+  "name": "Rockies Crown Oasis",
+  "short_name": "Rockies",
+  "description": "Rockies Crown Oasis: Where luxury, comfort and fun come together",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3f1ec",
+  "theme_color": "#b87333",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
